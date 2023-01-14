@@ -7,7 +7,6 @@
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobertDutra?tab=repositories)
 
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RobertDutra&theme=react&line_height=40&hide=css"/> </a>
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertDutra&show_icons=true&theme=tokyonight&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
@@ -18,8 +17,7 @@
   <img align="center" alt="postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </div><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertDutra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RobertDutra&theme=react&line_height=40&hide=css"/> </a>
 
 ## Tecnologias que já fiz uso
 <div style="display: inline_block">
