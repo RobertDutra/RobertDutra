@@ -8,7 +8,7 @@
 
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertDutra&show_icons=true&theme=tokyonight)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertDutra&show_icons=true&theme=tokyonight&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
