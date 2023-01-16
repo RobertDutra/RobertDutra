@@ -7,7 +7,7 @@
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobertDutra?tab=repositories)
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertDutra&show_icons=true&theme=tokyonight&count_private=false)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=robertdutra&show_icons=true&theme=tokyonight&count_private=false)
 
 ## Tecnologias que eu uso no meu dia
 
