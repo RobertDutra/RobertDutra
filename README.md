@@ -3,7 +3,9 @@
 - 👨‍💻 Técnico em Desenvolvimento de Sistemas | Senai
 <div style="display: inline_block">
   <a href="https://github.com/RobertDutra">
-  <img src="https://skillicons.dev/icons?i=linkedin,instagram,github" />
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=instagram"/>
+  <img href="https://github.com/RobertDutra" src="https://skillicons.dev/icons?i=github"/>
 </div><br/>
 
 <div align="left">
