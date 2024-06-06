@@ -2,7 +2,6 @@
 - 💻 Sistemas de Informação | Estácio
 - 👨‍💻 Técnico em Desenvolvimento de Sistemas | Senai
 <div style="display: inline_block">
-  <a href="https://github.com/RobertDutra">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
   <img href="https://www.instagram.com/robertt.dutra/" src="https://skillicons.dev/icons?i=instagram"/>
   <img href="https://github.com/RobertDutra" src="https://skillicons.dev/icons?i=github"/>
