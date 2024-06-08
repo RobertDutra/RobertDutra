@@ -1,11 +1,11 @@
 ## Olá! Me chamo Robert Dutra 🤙 🤙
 - 💻 Sistemas de Informação | Estácio
 - 👨‍💻 Técnico em Desenvolvimento de Sistemas | Senai
-<div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
-  <img href="https://www.instagram.com/robertt.dutra/" src="https://skillicons.dev/icons?i=instagram"/>
-  <img href="https://github.com/RobertDutra" src="https://skillicons.dev/icons?i=github"/>
-</div><br/>
+- 👨‍💻 Curso em Desenvolvimento Web | Senai
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/robert-dutra-880033226/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/robertt.dutra/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/RobertDutra)
 
 <div align="left">
   <img align="center" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=robertdutra&show_icons=true&theme=tokyonight&count_private=false)"/>
