@@ -8,8 +8,8 @@
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/RobertDutra)
 
 <div align="left">
-  <img align="center" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=robertdutra&show_icons=true&theme=tokyonight&count_private=false)"/>
-  <img align="center" height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RobertDutra&layout=compact&theme=react&line_height=40&hide=css"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=robertdutra&show_icons=true&theme=tokyonight&count_private=false)"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RobertDutra&layout=compact&theme=react&line_height=40&hide=css"/>
 
 </div>
 
